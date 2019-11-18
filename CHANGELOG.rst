@@ -8,7 +8,8 @@ Next release
 Changes
 -------
 
-TBA
+* Removed gfdatasource - feature is built in to Grafana since v5.
+
 
 0.5.4 (2019-08-30)
 =======
